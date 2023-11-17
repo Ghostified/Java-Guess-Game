@@ -14,7 +14,7 @@ public class Arrays {
         newArr[4] = "Awesome";
 
 
-        int[] nums = {2, 3, 4, 5, 6, 7};
+        int[] nums = {2, 3};
         //int a = nums [4];
         String y = newArr[2];
         String b = newArr[4];
