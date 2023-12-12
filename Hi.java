@@ -8,6 +8,12 @@ public class Hi {
         System.out.println(3 + 3);
         System.out.println(79);
         System.out.println(30*50);
+        //This is a single line comment
+        /* These
+         * Are
+         * Multi-line
+         * Comments
+         */
 
     }
 }
